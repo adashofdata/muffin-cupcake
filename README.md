@@ -1,2 +1,4 @@
 # muffin-cupcake
-classifying muffins and cupcakes using svm
+classifying muffin and cupcake recipes using support vector machines
+
+the supporting youtube tutorial can be found here: https://youtu.be/N1vOgolbjSc
